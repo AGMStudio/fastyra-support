@@ -1,7 +1,7 @@
 # Fastyra — privacidad y soporte
 
 Sitio estático, sin cookies, analítica, fuentes remotas ni JavaScript, preparado
-para las URL públicas de privacidad y soporte de Fastyra 1.0.
+para las URL públicas de privacidad y soporte de Fastyra 2.0.
 
 Sitio público: `https://agmstudio.github.io/fastyra-support/`
 
@@ -40,4 +40,4 @@ añadirse datos reales y confirmados.
 - Implementación de almacenamiento, exportación, borrado, notificaciones,
   App Group, WatchConnectivity y enlaces educativos.
 
-Última revisión del borrador: 25 de agosto de 2026.
+Última revisión del borrador: 19 de septiembre de 2026.
